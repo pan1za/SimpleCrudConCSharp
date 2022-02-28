@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\Taller1.exe
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\Taller1.deps.json
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\Taller1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\Taller1.dll
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\ref\Taller1.dll
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\bin\Debug\net6.0\Taller1.pdb
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.dll
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\ref\Taller1.dll
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.pdb
+C:\Users\gusta\OneDrive\Escritorio\Conducta_Entrada\Taller1\Taller1\obj\Debug\net6.0\Taller1.genruntimeconfig.cache
